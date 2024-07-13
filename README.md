@@ -32,8 +32,9 @@ Project in Java and Spring Boot developed during the NLW Journey event from Rock
 <p align="left">
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" height="27" />  
 <img alt="Spring Boot" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" height="27" />
-<img alt="PostgreSQL" src="https://img.shields.io/badge/h2-%23316192.svg?style=for-the-badge&logo=h2&logoColor=white" height="27" />
-<img alt="PostgreSQL" src="https://img.shields.io/badge/insomnia-%23316192.svg?style=for-the-badge&logo=h2&logoColor=white" height="27" />
+<img alt="H2" src="https://img.shields.io/badge/h2-%234169E1.svg?style=for-the-badge&logo=h2&logoColor=white" height="27" />
+<img alt="insomnia" src="https://img.shields.io/badge/insomnia-%23800080.svg?style=for-the-badge&logo=h2&logoColor=white" height="27" />
+<img alt="Flyway" src="https://img.shields.io/badge/flyway-%23FF0000.svg?style=for-the-badge&logo=flyway&logoColor=white" height="27" />
 </p>
 
 <br/>
